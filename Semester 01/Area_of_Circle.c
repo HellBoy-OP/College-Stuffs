@@ -28,6 +28,6 @@ int main() {
 // This function calculates area
 float Area(float radius){
    float area;
-   area = 3.14 * radius_circle * radius_circle;
+   area = pi * radius_circle * radius_circle;
    return area;
 }
