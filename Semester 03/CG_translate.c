@@ -1,5 +1,6 @@
 /*
 * A c program to translate a 2d graph
+* Transformation in 2D
 */
 
 #include <stdio.h>
