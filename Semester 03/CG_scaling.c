@@ -1,3 +1,8 @@
+/*
+* A c program to scale the graph
+* 2D transformation
+*/
+
 #include <stdio.h>
 
 
