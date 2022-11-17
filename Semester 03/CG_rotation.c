@@ -1,6 +1,6 @@
 /*
-* A c++ program to transform 2D.
-* rotate a graph in computer graphics.
+* A c program to rotate the graph
+* 2D transformation
 */
 #include<stdio.h>
 #include<math.h>
